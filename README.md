@@ -51,23 +51,17 @@ An interactive content-based movie recommendation system built using **Streamlit
 
 ## How the Movie Recommender System works
 ###### 📥 User Interaction
-       │
-       ▼
+ ######       ▼
 ###### 🎬 Selects a Movie from the Dropdown
-       │
-       ▼
+######        ▼
 ###### 🔎 System Locates the Movie Index in the Dataset
-       │
-       ▼
+######        ▼
 ###### 📊 Retrieves Similarity Scores from Precomputed Matrix
-       │
-       ▼
+######        ▼
 ###### 📈 Sorts Scores and Picks Top 5 Similar Movies
-       │
-       ▼
+######        ▼
 ###### 🌐 Fetches Posters for Each Movie using TMDB API
-       │
-       ▼
+######        ▼
 ###### 🖼 Displays Movie Posters and Titles in Streamlit UI
 
 ---
@@ -87,7 +81,7 @@ movie-recommender-system/
 - 📁 [Google Drive – All Project Files]((https://drive.google.com/drive/folders/1KdxqSE0mEzqfGKzWBFYCdM-CLMpxAteq?usp=drive_link))
 - 📝 [Notion Document – Project Notes](https://morning-cast-4fb.notion.site/Movie-Recommender-System-Using-Content-Based-Filtering-1d0c0db6457880b59307fd9cafab0780)
 
-##👨‍💻 About the Author
+## 👨‍💻 About the Author
 ### **Naveen Dhawan**  
 🎓 B.Tech – Data Analytics | Machine Learning  
 🔗 [LinkedIn](https://linkedin.com/in/newnaveendhawan)  
