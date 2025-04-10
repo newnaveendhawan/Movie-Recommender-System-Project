@@ -1,9 +1,11 @@
+![an-aesthetically-pleasing-4k-hd-poster-i_XZdn0WGgR8mpT3D8E-xDQg_nljHz1vCS1e9qe3xsCpLSg (1)](https://github.com/user-attachments/assets/d5ef8398-124d-45a2-bf1c-2ce4b0f46424)
+<img src="https://github.com/user-attachments/assets/d5ef8398-124d-45a2-bf1c-2ce4b0f46424" alt="Project Screenshot" width="600" height="400">
+----
 # 🎬 Movie Recommender System
 
-An interactive content-based movie recommendation system built using **Streamlit**, powered by **cosine similarity** and enriched with **TMDB API** for fetching posters. It analyzes movie metadata like **overview, genres, cast, crew, and keywords** to recommend top 5 similar movies. Deployed using **Render** via GitHub, with large `.pkl` files handled via **Git LFS**.
+An interactive content-based movie recommendation system built using **Streamlit**, powered by **cosine similarity** and enriched with **TMDB API** for fetching posters. It analyzes movie metadata like **overview, genres, cast, crew, and keywords** to recommend the top 5 similar movies. Deployed using **Render** via GitHub, with large `.pkl` files handled via **Git LFS**.
 
 ---
-![a-visually-striking-4k-hd-poster-illustr_WvIn0-PhRWaiTHSJ5hhdqw_KvoKhEI4TyK-L10Nx833Wg](https://github.com/user-attachments/assets/6bfcde83-8dbf-43a2-bb7b-8db320fee64d)
 
 
 
