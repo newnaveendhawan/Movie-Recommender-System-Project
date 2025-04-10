@@ -87,6 +87,7 @@ movie-recommender-system/
 - 📁 [Google Drive – All Project Files](https://drive.google.com/drive/folders/1KdxqSE0mEzqfGKzWBFYCdM-CLMpxAteq?usp=drive_link)
 - 📝 [Notion Document – Project Notes](https://morning-cast-4fb.notion.site/Movie-Recommender-System-Using-Content-Based-Filtering-1d0c0db6457880b59307fd9cafab0780)
 - 🎥 [Live Demo Video: Watch Project in Action](https://drive.google.com/file/d/1uiUpBBcdp4c_dupE-mTkFNbOveQTOVrH/view?usp=drive_link)
+- 🌐 [Live Web App: Movie Recommender System](https://movie-recommender-system-project-qqfu.onrender.com/)
 
 ## 👨‍💻 About the Author
 ### **Naveen Dhawan**  
