@@ -50,19 +50,19 @@ An interactive content-based movie recommendation system built using **Streamlit
 > Note: Use **Git LFS** to upload files >100MB (`movie_dict.pkl`, `similarity.pkl`).
 
 ## How the Movie Recommender System works
-###### 📥 User Interaction
- ######       ▼
-###### 🎬 Selects a Movie from the Dropdown
-######        ▼
-###### 🔎 System Locates the Movie Index in the Dataset
-######        ▼
-###### 📊 Retrieves Similarity Scores from Precomputed Matrix
-######        ▼
-###### 📈 Sorts Scores and Picks Top 5 Similar Movies
-######        ▼
-###### 🌐 Fetches Posters for Each Movie using TMDB API
-######        ▼
-###### 🖼 Displays Movie Posters and Titles in Streamlit UI
+##### 📥 User Interaction
+
+##### 🎬 Selects a Movie from the Dropdown
+
+##### 🔎 System Locates the Movie Index in the Dataset
+
+##### 📊 Retrieves Similarity Scores from Precomputed Matrix
+
+##### 📈 Sorts Scores and Picks Top 5 Similar Movies
+
+##### 🌐 Fetches Posters for Each Movie using TMDB API
+
+##### 🖼 Displays Movie Posters and Titles in Streamlit UI
 
 ---
 
