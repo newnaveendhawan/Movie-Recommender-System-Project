@@ -71,15 +71,22 @@ movie-recommender-system/
 2. Go to [Render.com](https://render.com) → New Web Service → Connect GitHub Repo.
 3. Configure:
    - **Build Command**: `pip install -r requirements.txt`
-   - **Start Command**: `streamlit run app.py`
+   - **Start Command**: `sh setup.sh && streamlit run main.py`
 4. Deploy. Your app goes live with a public URL.
 
 > Note: Use **Git LFS** to upload files >100MB (`movie_dict.pkl`, `similarity.pkl`).
+
+## 🧪 Testing
+##### - Try selecting various genres: Action, Drama, Romance
+##### - Compare system recommendations with IMDb or other engines
+##### - Check the correctness of the poster and name mapping
+##### - Test UI on different screen sizes (Streamlit handles responsiveness)
 
 ## 🔗 Project Resources
 
 - 📁 [Google Drive – All Project Files](https://drive.google.com/drive/folders/1KdxqSE0mEzqfGKzWBFYCdM-CLMpxAteq?usp=drive_link)
 - 📝 [Notion Document – Project Notes](https://morning-cast-4fb.notion.site/Movie-Recommender-System-Using-Content-Based-Filtering-1d0c0db6457880b59307fd9cafab0780)
+- 🎥 [Live Demo Video: Watch Project in Action](https://drive.google.com/file/d/1uiUpBBcdp4c_dupE-mTkFNbOveQTOVrH/view?usp=drive_link)
 
 ## 👨‍💻 About the Author
 ### **Naveen Dhawan**  
