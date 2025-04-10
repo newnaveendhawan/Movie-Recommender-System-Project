@@ -3,6 +3,8 @@
 An interactive content-based movie recommendation system built using **Streamlit**, powered by **cosine similarity** and enriched with **TMDB API** for fetching posters. It analyzes movie metadata like **overview, genres, cast, crew, and keywords** to recommend top 5 similar movies. Deployed using **Render** via GitHub, with large `.pkl` files handled via **Git LFS**.
 
 ---
+![an-aesthetically-pleasing-4k-hd-poster-i_XZdn0WGgR8mpT3D8E-xDQg_nljHz1vCS1e9qe3xsCpLSg (1)](https://github.com/user-attachments/assets/471a953f-55fe-45fd-92af-9f716d4e735a)
+
 
 ## ✨ Features
 
@@ -15,6 +17,7 @@ An interactive content-based movie recommendation system built using **Streamlit
 
 ---
 
+
 ## 🛠 Tech Stack
 
 - **Language**: Python 3
@@ -25,6 +28,11 @@ An interactive content-based movie recommendation system built using **Streamlit
 - **IDE**: PyCharm
 - **Deployment**: Render
 - **Large File Handling**: Git LFS
+
+## 🖼️ Screenshot of the Web App
+###### Here’s a glimpse of the web app in action:
+![Screenshot 2025-04-09 214754](https://github.com/user-attachments/assets/0c514131-118a-497c-a196-66d7eecdaa0d)
+
 
   ## 🚀 Deployment (via Render)
 
@@ -40,9 +48,16 @@ An interactive content-based movie recommendation system built using **Streamlit
 ---
 
 ## 📁 Project Structure
-movie-recommender-system/ ├── app.py → Streamlit web app script ├── movie_dict.pkl → Preprocessed movie metadata ├── similarity.pkl → Precomputed similarity matrix ├── requirements.txt → All project dependencies ├── Procfile → For deployment platforms like Render/Heroku ├── setup.sh → Optional for Heroku (Streamlit config) └── README.md → Project documentation
+movie-recommender-system/ 
+###### ├── app.py → Streamlit web app script 
+###### ├── movie_dict.pkl → Preprocessed movie metadata 
+###### ├── similarity.pkl → Precomputed similarity matrix 
+###### ├── requirements.txt → All project dependencies 
+###### ├── Procfile → For deployment platforms like Render/Heroku 
+###### ├── setup.sh → Optional for Heroku (Streamlit config) 
+###### └── README.md → Project documentation
 
-**Naveen Dhawan**  
+## **Naveen Dhawan**  
 🎓 B.Tech – Data Analytics | Machine Learning  
 🔗 [LinkedIn](https://linkedin.com/in/newnaveendhawan)  
 💼 [GitHub](https://github.com/newnaveendhawan)
