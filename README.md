@@ -1,4 +1,4 @@
-![an-aesthetically-pleasing-4k-hd-poster-i_XZdn0WGgR8mpT3D8E-xDQg_nljHz1vCS1e9qe3xsCpLSg (1)](https://github.com/user-attachments/assets/d5ef8398-124d-45a2-bf1c-2ce4b0f46424)
+
 <img src="https://github.com/user-attachments/assets/d5ef8398-124d-45a2-bf1c-2ce4b0f46424" alt="Project Screenshot" width="600" height="400">
 ----
 # 🎬 Movie Recommender System
