@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/d5ef8398-124d-45a2-bf1c-2ce4b0f46424" alt="Project Screenshot" width="800" height="400">
+<img src="https://github.com/user-attachments/assets/7b9ee967-d1dc-4921-8a07-0a4255572d04" alt="Project Screenshot" width="800" height="400">
 ---
 
 # 🎬 Movie Recommender System
@@ -38,17 +38,6 @@ An interactive content-based movie recommendation system built using **Streamlit
 ![Screenshot 2025-04-09 214754](https://github.com/user-attachments/assets/0c514131-118a-497c-a196-66d7eecdaa0d)
 
 
-  ## 🚀 Deployment (via Render)
-
-1. Push your project to a GitHub repository.
-2. Go to [Render.com](https://render.com) → New Web Service → Connect GitHub Repo.
-3. Configure:
-   - **Build Command**: `pip install -r requirements.txt`
-   - **Start Command**: `streamlit run app.py`
-4. Deploy. Your app goes live with a public URL.
-
-> Note: Use **Git LFS** to upload files >100MB (`movie_dict.pkl`, `similarity.pkl`).
-
 ## How the Movie Recommender System works
 ##### 📥 User Interaction
 
@@ -76,9 +65,20 @@ movie-recommender-system/
 ###### ├── setup.sh → Optional for Heroku (Streamlit config) 
 ###### └── README.md → Project documentation
 
+  ## 🚀 Deployment (via Render)
+
+1. Push your project to a GitHub repository.
+2. Go to [Render.com](https://render.com) → New Web Service → Connect GitHub Repo.
+3. Configure:
+   - **Build Command**: `pip install -r requirements.txt`
+   - **Start Command**: `streamlit run app.py`
+4. Deploy. Your app goes live with a public URL.
+
+> Note: Use **Git LFS** to upload files >100MB (`movie_dict.pkl`, `similarity.pkl`).
+
 ## 🔗 Project Resources
 
-- 📁 [Google Drive – All Project Files]((https://drive.google.com/drive/folders/1KdxqSE0mEzqfGKzWBFYCdM-CLMpxAteq?usp=drive_link))
+- 📁 [Google Drive – All Project Files](https://drive.google.com/drive/folders/1KdxqSE0mEzqfGKzWBFYCdM-CLMpxAteq?usp=drive_link)
 - 📝 [Notion Document – Project Notes](https://morning-cast-4fb.notion.site/Movie-Recommender-System-Using-Content-Based-Filtering-1d0c0db6457880b59307fd9cafab0780)
 
 ## 👨‍💻 About the Author
