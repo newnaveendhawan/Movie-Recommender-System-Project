@@ -25,8 +25,8 @@ An interactive content-based movie recommendation system built using **Streamlit
 ## 🛠 Tech Stack
 
 - **Language**: Python 3
-- **Libraries**: Streamlit, Pandas, Scikit-learn, NLTK, Pickle, Requests
-- **Vectorization**: CountVectorizer (Bag-of-Words)
+- **Libraries**: Streamlit, Pandas, Scikit-learn, Pickle, Requests
+- **NLP**: Vectorization: CountVectorizer (Bag-of-Words), Stemming: Reduces words to root form
 - **Similarity Metric**: Cosine Similarity
 - **API**: TMDB (The Movie Database)
 - **IDE**: PyCharm
